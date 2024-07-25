@@ -1,6 +1,9 @@
 # Aplikasi Mading Digital (HIVE)
 
-Disclaimer : repository in merupakan salinan + pembaruan dari repositori (https://github.com/Elddis09/App_HIVE.git)
+Disclaimer : 
+- Repositori ini merupakan salinan + pembaruan dari repositori (https://github.com/Elddis09/App_HIVE.git)
+- Beberapa fitur belum terealisasikan
+- Fokus aplikasi ini pada CRUD 
 
 HIVE merupakan sebuah aplikasi android sebagai sarana efisien bagi siswa, guru, dan anggota komunitas sekolah dalam menerima dan berinteraksi serta informasi penting di lingkungan sekolah yang bertujuan untuk memudahkan pengguna dalam mengakses dan berpartisipasi dalam kegiatan sekolah secara online.
 
