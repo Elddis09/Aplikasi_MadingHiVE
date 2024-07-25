@@ -1,8 +1,9 @@
 # Aplikasi Mading Digital (HIVE)
 
-Disclaimer : repository in merupakan salinan + pembaruan dari repositori ()
+Disclaimer : repository in merupakan salinan + pembaruan dari repositori (https://github.com/Elddis09/App_HIVE.git)
 
 HIVE merupakan sebuah aplikasi android sebagai sarana efisien bagi siswa, guru, dan anggota komunitas sekolah dalam menerima dan berinteraksi serta informasi penting di lingkungan sekolah yang bertujuan untuk memudahkan pengguna dalam mengakses dan berpartisipasi dalam kegiatan sekolah secara online.
+
 Fitur - Fitur didalamnya mencakup:
 - login
 - papan mading interaktif
@@ -12,17 +13,30 @@ Fitur - Fitur didalamnya mencakup:
 - pencarian
 - filter
 - profil pengguna
+- friends
 - CRUD mading
 
-## Getting Started
+## Komponen Dari Aplikasi HIVE
+- Icon launcher aplikasi
 
-This project is a starting point for a Flutter application.
+![Hive Icon 2](https://github.com/user-attachments/assets/aa26eeb5-521a-4331-8bec-b5cc7732b833)
 
-A few resources to get you started if this is your first Flutter project:
+- Layout HIVE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/d355631c-3a51-40b3-8e98-d1444b55a829)
+
+
+![2](https://github.com/user-attachments/assets/fd506500-91d2-4146-97a5-53f912f0f5f3)
+
+
+
+## Anggota Kelompok :
+- Reddis Angel - 17223016
+- Nurhasanah - 17223001
+- Az'zahra Adriana Jasmin - 17223022
+- Azilma Nuzul Yasinta - 17221028
+
+
+
+
